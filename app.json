@@ -1,0 +1,40 @@
+{
+    "name": "Clover Source",
+    "description": "  ₰  The Best Source  ₰ ",
+    "logo" : "https://telegra.ph/file/70dc26334faf2a16b0a5b.jpg",
+    "stack": "container",
+    "repository": "https://github.com/astaiu/AstaCK",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/astaiu/AstaCK",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ @ ـ",
+            "value": "",
+            "required": true
+        }
+    }
+}
